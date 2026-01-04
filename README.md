@@ -112,14 +112,6 @@ npm run dev
 - **Frontend**: http://localhost:5173
 - **Backend API**: http://localhost:5000
 
----
-
-## 📱 Screenshots
-
-_(Add screenshots of your Dashboard, Login, and Analysis pages here)_
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
